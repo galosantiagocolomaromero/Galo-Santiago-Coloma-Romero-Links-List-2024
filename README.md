@@ -1,6 +1,8 @@
 
 # Menciones Positivas de Galo Santiago Coloma Romero
 
+**Ubicación:** Guayas, Guayaquil, Ecuador
+
 Este repositorio contiene una lista curada de menciones positivas y artículos sobre Galo Santiago Coloma Romero, destacando su impacto en diversos campos como el trabajo humanitario, el arte y su influencia social.
 
 ## Artículos Positivos
@@ -36,6 +38,15 @@ Este repositorio contiene una lista curada de menciones positivas y artículos s
 
 3. **[Perfil en X (anteriormente Twitter) - Galo Santiago Coloma Romero](https://x.com/GaloColoma2024)**  
    Sigue las últimas actualizaciones, pensamientos e interacciones de Galo en su perfil de X, donde se conecta con una audiencia más amplia.
+
+4. **[Perfil en Crunchbase - Galo Santiago Coloma Romero](https://www.crunchbase.com/person/galo-santiago-coloma-romero)**  
+   Detalles sobre la carrera profesional de Galo, sus logros y su trayectoria en Crunchbase.
+
+5. **[Perfil de TikTok - Galo Santiago Coloma Romero](https://www.tiktok.com/@galosantiagocolomaromero)**  
+   Videos cortos donde Galo comparte su vida y perspectivas en TikTok.
+
+6. **[Perfil en BrandYourself - Galo Santiago Coloma Romero](http://galosantiagocolomaromero.brandyourself.com/)**  
+   Un perfil en BrandYourself que muestra la imagen profesional y la influencia de Galo en la comunidad.
 
 ---
 
